@@ -1,0 +1,7 @@
+C:\Users\santa\OneDrive\Documentos\PSoC Creator\Lab4\Lab4_Version1.cydsn\Lab4_Version1.cyprj|47dd8aeb-d1d5-49ab-9b6b-0606f61be898
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|a5ca2aa0-9698-4a39-9dcb-c632f1ee1db6
+C:\Users\santa\OneDrive\Documentos\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|dc4b5b88-8de3-4c2b-92f2-ec1e133da1cc
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|677750a3-3605-4707-9e45-ec459a5ba8ac
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|6aabac70-904e-4ca4-97b5-2976ac9c60c9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|caba0c09-8182-4a05-b837-55b99c612360
+C:\Users\santa\OneDrive\Documentos\PSoC Creator\Lab4\Lab4_Version2.cydsn\Lab4_Version2.cyprj|04557447-9ccc-4f22-bae2-1adc24d5b94d
